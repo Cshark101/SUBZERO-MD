@@ -38,7 +38,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "false",              // Auto-send voice messages?
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",      // Auto-record voice notes?
     AUTO_TYPING: process.env.AUTO_TYPING || "false",            // Show typing indicator?
-    BOT_IMAGE: process.env.BOT_IMAGE || "https://files.catbox.moe/kjxwts.jpg",  // Bot's "alive" image
+    BOT_IMAGE: process.env.BOT_IMAGE || "https://files.catbox.moe/j06tjh.jpg",  // Bot's "alive" image
 
     // ===== SECURITY & ANTI-FEATURES =====
     ANTI_BAD: process.env.ANTI_BAD || "false",                  // Block bad words?
