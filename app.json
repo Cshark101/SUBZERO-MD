@@ -20,17 +20,17 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263719646303"
+      "value": "2348101668050"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SUBZERO-MD"
+      "value": "PANDEMONIUM-MD"
     },
     "BOT_IMAGE": {
       "description": "Put link for Bot Menu Image e.g https://",
       "required": false,
-      "value": "https://files.catbox.moe/18il7k.jpg"
+      "value": "https://files.catbox.moe/kjxwts.jpg"
     }
   },
   "buildpacks": [
